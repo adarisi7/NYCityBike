@@ -6,6 +6,7 @@ The purpose of this project is to analysis data from new york city regarding bik
 
 ### Results
 [Dashboard](https://public.tableau.com/app/profile/anubhav7730/viz/NYCCityBikeAssignment/NYCityBikeTableau?publish=yes)
+First graph is a line graph with bikers trip duration by hour and minutes, second one is the same thing except with genders, third graph is the stoptimes by hour, fourth one is same as third except stoptimes with gender, and last graph is the user of the bike between subscriber and customer .
 
 
 #### Summary
